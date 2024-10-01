@@ -1,5 +1,0 @@
-apr_skip:
-- apr_cstr_skip_prefix():
-    headers:
-    - apr_cstr.h
-    signature: shar * apr_cstr_skip_prefix(char * ,  char *);

@@ -1,5 +1,0 @@
-apr_strnatcasecmp:
-- apr_strnatcasecmp():
-    headers:
-    - apr_strings.h
-    signature: int apr_strnatcasecmp(const char *a, const char *b);

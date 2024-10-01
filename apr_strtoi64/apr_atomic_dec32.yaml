@@ -1,5 +1,0 @@
-apr_strtoi64:
-- apr_strtoi64():
-    headers:
-    - apr_strings.h
-    signature: long long  apr_strtoi64(const char *,char **,int);

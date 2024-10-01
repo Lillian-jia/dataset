@@ -1,6 +1,0 @@
-apr_sha1:
-- apr_sha1_base64():
-    headers:
-    - apr_sha1.h
-    - apr_base64.h
-    signature: void apr_sha1_base64(char *, int,char *);
