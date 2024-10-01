@@ -1,0 +1,5 @@
+apr_tokenize:
+- apr_cstr_tokenize():
+    headers:
+    - apr_cstr.h
+    signature: char apr_cstr_tokenize(char * ,  char *);

@@ -1,0 +1,18 @@
+{
+	"num":	2,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"wÿÿwwwwwwwwwwwwwwwwÿ",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"wuhan",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}]
+}

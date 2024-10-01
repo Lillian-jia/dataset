@@ -1,0 +1,5 @@
+apr_atomic_cas32:
+- apr_atomic_cas32():
+    headers:
+    - apr_atomic.h
+    signature: void apr_atomic_cas32(unsigned int *,unsigned int,unsigned int);

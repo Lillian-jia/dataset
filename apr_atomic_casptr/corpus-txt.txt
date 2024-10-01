@@ -1,0 +1,3 @@
+val_1=beijing
+val_2=2
+val_3=hangzhou

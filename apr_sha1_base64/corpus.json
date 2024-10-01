@@ -1,0 +1,29 @@
+{	
+	"num": 3,
+	"arguments": [
+		{
+			"type": "unfixed",
+			"value": "fujian",
+			"real_type": "char *",
+			"context": false,
+			"skip": false,
+			"name": "val_1"
+		},
+		{
+			"type": "unfixed",
+			"value": "21311",
+			"real_type": "int",
+			"context": false,
+			"skip": false,
+			"name": "val_2"
+		},
+		{
+			"type": "unfixed",
+			"value": "wuhan",
+			"real_type": "char *",
+			"context": false,
+			"skip": false,
+			"name": "val_3"
+		}
+	]
+}
