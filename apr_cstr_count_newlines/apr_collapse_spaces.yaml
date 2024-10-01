@@ -1,0 +1,5 @@
+apr_base64:
+- apr_cstr_count_newlines:
+    headers:
+    - apr_cstr.h
+    signature: int apr_cstr_count_newlines(char *);

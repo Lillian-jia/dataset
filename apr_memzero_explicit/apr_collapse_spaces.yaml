@@ -1,0 +1,5 @@
+apr_base64:
+- apr_memzero_explicit():
+    headers:
+    - apr_strings.h
+    signature: int apr_memzero_explicit(char *,int);

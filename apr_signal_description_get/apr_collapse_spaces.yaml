@@ -1,0 +1,5 @@
+apr_base64:
+- apr_signal_description_get():
+    headers:
+    - apr_signal.h
+    signature: const char* apr_signal_description_get(int);
