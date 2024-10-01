@@ -1,0 +1,25 @@
+{
+	"num":	3,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"k\nk\n\u001bf-i\u001bf-iiJ",
+			"real_type":	"const char *",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"ganziaba",
+			"real_type":	"const char *",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"unfixed",
+			"value":	"123415690",
+			"real_type":	"int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}]
+}

@@ -1,0 +1,5 @@
+apr_atomic_xchg32:
+- apr_atomic_xchg32():
+    headers:
+    - apr_atomic.h
+    signature: unsigned int apr_atomic_xchg32(unsigned int *,unsigned int);

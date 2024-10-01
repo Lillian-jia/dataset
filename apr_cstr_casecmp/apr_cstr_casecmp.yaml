@@ -1,0 +1,5 @@
+apr_casecmp:
+- apr_cstr_casecmp():
+    headers:
+    - apr_cstr.h
+    signature: int apr_cstr_casecmp(char * ,  char *);
