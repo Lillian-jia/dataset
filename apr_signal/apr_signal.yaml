@@ -1,0 +1,5 @@
+apr_base64:
+- apr_signal():
+    headers:
+    - apr_signal.h
+    signature: void * apr_signal(int,void *);

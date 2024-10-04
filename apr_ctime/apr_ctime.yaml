@@ -1,0 +1,5 @@
+apr_base64:
+- apr_ctime():
+    headers:
+    - apr_time.h
+    signature: int apr_ctime(char *,long);

@@ -1,0 +1,5 @@
+apr_base64:
+- apr_time_ansi_put():
+    headers:
+    - apr_time.h
+    signature: int apr_time_ansi_put(long,long);

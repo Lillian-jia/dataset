@@ -1,0 +1,22 @@
+{
+	"num": 2,
+	"arguments": [
+
+        {
+            "type": "fixed_32",
+            "value": "1",
+            "real_type": "long",
+            "context": false,
+            "skip": false,
+            "name": "val_0"
+        },
+		{
+			"type": "fixed_32",
+			"value": "4",
+			"real_type": "long",
+			"context": false,
+			"skip": false,
+			"name": "val_1"
+		}
+	]
+}
