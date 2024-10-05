@@ -1,0 +1,5 @@
+apr_base64:
+- apr_escape_urlencoded():
+    headers:
+    - apr_escape.h
+    signature: int apr_escape_urlencoded(char *,char *,int);

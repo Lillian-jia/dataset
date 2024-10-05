@@ -1,0 +1,5 @@
+apr_base64:
+- apr_match_glob():
+    headers:
+    - apr_fnmatch.h
+    signature: int apr_match_glob(char *,char *,int);

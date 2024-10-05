@@ -1,0 +1,30 @@
+{
+	"num": 3,
+	"arguments": [
+
+                {
+                        "type": "unfixed",
+                        "value": "abcdefg1",
+                        "real_type": "string",
+                        "context": false,
+                        "skip": false,
+                        "name": "val_1"
+                },
+		{
+			"type": "unfixed",
+			"value": "qweasdzxc2",
+			"real_type": "string",
+			"context": false,
+			"skip": false,
+			"name": "val_2"
+		},
+		{
+			"type": "fixed",
+			"value": "2",
+			"real_type": "int",
+			"context": false,
+			"skip": false,
+			"name": "val_3"
+		}
+	]
+}

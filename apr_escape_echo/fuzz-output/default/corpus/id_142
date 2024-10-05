@@ -1,0 +1,18 @@
+{
+	"num":	2,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"asdasf86666Ù6666,6666sdasf86666Ù6666,66666666Hÿ€66666H6666651as€",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"1rdgdgrf",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}]
+}
