@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"fixed_64",
+			"value":	"12682136550675316736",
+			"real_type":	"unsigned long",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_0"
+		}]
+}

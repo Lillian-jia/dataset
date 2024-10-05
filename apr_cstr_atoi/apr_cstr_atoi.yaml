@@ -1,0 +1,6 @@
+apr_cstr_atoi:
+- apr_cstr_atoi:
+    headers:
+    - apr_cstr.h
+    signature: int apr_cstr_atoi64(int *,const char *);
+

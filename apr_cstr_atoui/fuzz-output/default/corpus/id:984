@@ -1,0 +1,18 @@
+{
+	"num":	2,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"1",
+			"real_type":	"unsigned int *",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_0"
+		}, {
+			"type":	"unfixed",
+			"value":	"asdS\u0017\u0017\u0017@\u0015\u0017\u0017\u0017\u0017\u0017\u0017\u0015\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017sf8+51as\u0017",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}
