@@ -1,0 +1,5 @@
+apr_base64:
+- apr_decode_base32():
+    headers:
+    - apr_encode.h
+    signature: int apr_decode_base32(char *,const char *,int,int,unsigned long *);
