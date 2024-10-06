@@ -1,5 +1,0 @@
-apr_base64:
-- apr_escape_json():
-    headers:
-    - apr_escape.h
-    signature: int apr_escape_json(char *,char *,int,int,unsigned long *);

@@ -1,5 +1,0 @@
-apr_base64:
-- apr_unescape_hex():
-    headers:
-    - apr_escape.h
-    signature: int apr_unescape_hex(char *,char *,int,int,unsigned int*);

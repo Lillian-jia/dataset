@@ -1,5 +1,0 @@
-apr_xch:
-- apr_atomic_xchgptr():
-    headers:
-    - apr_atomic.h
-    signature: void* apr_atomic_xchgptr(void * ,  void *);

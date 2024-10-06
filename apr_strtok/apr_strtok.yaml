@@ -1,5 +1,0 @@
-apr_strtok:
-- apr_strtok():
-    headers:
-    - apr_strings.h
-    signature: char * apr_strtok(char * ,char * ,char *);

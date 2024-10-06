@@ -1,5 +1,0 @@
-apr_date:
-- apr_date_checkmask():
-    headers:
-    - apr_date.h
-    signature: int apr_date_checkmask(char * ,  char *);

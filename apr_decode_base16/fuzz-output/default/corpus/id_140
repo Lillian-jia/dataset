@@ -1,0 +1,39 @@
+{
+	"num":	5,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"12f4311cdd",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"23caa23iac11",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"fixed_64",
+			"value":	"33",
+			"real_type":	"unsigned long",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}, {
+			"type":	"fixed_32",
+			"value":	"6",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_4"
+		}, {
+			"type":	"unfixed",
+			"value":	"9",
+			"real_type":	"unsigned long *",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_5"
+		}]
+}

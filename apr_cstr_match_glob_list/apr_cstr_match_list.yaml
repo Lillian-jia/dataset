@@ -1,5 +1,0 @@
-apr_base64:
-- apr_cstr_match_list():
-    headers:
-    - apr_cstr.h
-    signature: int apr_cstr_match_list(char *,char *);

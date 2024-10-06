@@ -1,5 +1,0 @@
-apr_base64:
-- apr_strnatcasecmp():
-    headers:
-    - apr_strings.h
-    signature: int apr_strnatcasecmp(char *, char *);

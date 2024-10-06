@@ -1,5 +1,0 @@
-apr_base64:
-- apr_file_perms_set():
-    headers:
-    - apr_file_io.h
-    signature: int apr_file_perms_set(char *,char *);

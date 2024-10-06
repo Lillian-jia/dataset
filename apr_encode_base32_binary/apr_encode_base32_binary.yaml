@@ -1,0 +1,5 @@
+pr_base64:
+- apr_encode_base32_binary():
+    headers:
+    - apr_encode.h
+    signature: int apr_encode_base32_binary(char *,const unsigned char *,int,int,unsigned long *);

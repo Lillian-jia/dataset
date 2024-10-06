@@ -1,0 +1,5 @@
+apr_base64:
+- apr_encode_base64_binary():
+    headers:
+    - apr_encode.h
+    signature: int apr_encode_base64_binary(char *,const unsigned char *,int,int,unsigned long *);

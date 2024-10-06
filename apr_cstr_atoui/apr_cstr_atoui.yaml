@@ -1,5 +1,0 @@
-apr_cstr_atoui:
-- apr_cstr_atoui():
-    headers:
-    - apt_cstr.h
-    signature: int apr_cstr_atoui(unsigned int *,const char *);

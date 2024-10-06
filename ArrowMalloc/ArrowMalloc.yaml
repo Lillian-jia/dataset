@@ -1,6 +1,0 @@
-ArrowMalloc:
-- ArrowMalloc():
-    headers:
-    - nanoarrow.h
-    signature: void* ArrowMalloc(int);
-

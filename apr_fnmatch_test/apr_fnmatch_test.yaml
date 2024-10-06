@@ -1,5 +1,0 @@
-apr_base64:
-- apr_fnmatch_test():
-    headers:
-    - apr_fnmatch.h
-    signature: int apr_fnmatch_test(char *);

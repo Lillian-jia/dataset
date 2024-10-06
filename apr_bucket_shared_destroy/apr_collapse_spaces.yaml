@@ -1,5 +1,0 @@
-apr_base64:
-- apr_bucket_shared_destroy():
-    headers:
-    - apr_buckets.h
-    signature: int apr_bucket_shared_destroy(char *);

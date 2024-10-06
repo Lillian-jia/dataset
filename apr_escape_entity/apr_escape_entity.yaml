@@ -1,5 +1,0 @@
-apr_base64:
-- apr_escape_entity():
-    headers:
-    - apr_escape.h
-    signature: int apr_escape_entity(char *,char *,int);

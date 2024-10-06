@@ -1,6 +1,0 @@
-apr_cstr_atoui64:
-- apr_cstr_atoui64():
-    headers:
-    - apr_cstr.h
-    signature: int apr_cstr_atoui64(long *,const char *);
-

@@ -1,5 +1,0 @@
-apr_cas:
-- apr_atomic_casptr():
-    headers:
-    - apr_atomic.h
-    signature: void * apr_atomic_casptr(void * , void * , void *);

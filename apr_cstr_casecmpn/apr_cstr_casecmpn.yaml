@@ -1,5 +1,0 @@
-apr_casecmpn:
-- apr_cstr_casecmpn():
-    headers:
-    - apr_cstr.h
-    signature: int apr_cstr_casecmpn(char * ,  char *, int);

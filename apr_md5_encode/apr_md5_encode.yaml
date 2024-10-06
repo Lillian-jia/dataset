@@ -1,5 +1,0 @@
-apr_base64:
-- apr_md5_encode():
-    headers:
-    - apr_md5.h
-    signature: int apr_md5_encode(char *,char *,char *);

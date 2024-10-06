@@ -1,5 +1,0 @@
-apr_base64:
-- apr_escape_hex():
-    headers:
-    - apr_escape.h
-    signature: int apr_escape_hex(char *,char *,int,int,unsigned long *);

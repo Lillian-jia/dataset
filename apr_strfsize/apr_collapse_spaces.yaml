@@ -1,5 +1,0 @@
-apr_base64:
-- apr_strfsize():
-    headers:
-    - apr_strings.h
-    signature: char * apr_strfsize(int, char *);

@@ -1,5 +1,0 @@
-apr_base64:
-- apr_bcrypt_encode():
-    headers:
-    - apr_md5.h
-    signature: int apr_bcrypt_encode(char *,char *,char *);
