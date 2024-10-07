@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"a\u001a}5º\t\t\t\tî\b\t\t\t\tU5a\t\t\t\tî\b\t\tî\b\t\t\t\tU5a\t\t\t\tî\b\t\t\t\tU5a\u001a}5º\t\t\t\t\t\tî\b\t\t\t\tU1a‡d",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

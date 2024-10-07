@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"\u001e\u001e\u0011\u0011\u0011nnnnnnnnn‚nn\u0005ÿÿ\u0005nnVicvpni",
+			"real_type":	"void",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

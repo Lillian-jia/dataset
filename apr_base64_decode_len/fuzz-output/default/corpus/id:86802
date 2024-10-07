@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"j\u0010\u0006j\u0010\u0006\u0010\u0006ep\u0006eep\u0006\u0010\u0006ep\u0006eep\u0006e",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

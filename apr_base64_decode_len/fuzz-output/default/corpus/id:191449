@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"XXXXXXXXXXXXXXXXXX_XXXXXXXXXXXXXXXXXXXXXXXaXXX\u0010XXXXXXXXXXXXXXXXXXXXXXXXXXXlXXXXX\u0010XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

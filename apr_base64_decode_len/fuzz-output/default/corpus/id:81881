@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"rtee\u001aeere\u001aeVr}\u0001e\u001a‡e\u0001ertee\u001aeere\u001aeVr}\u0001e\u001a‡e\u0001e\u001a‡e",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

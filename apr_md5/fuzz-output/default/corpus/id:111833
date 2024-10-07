@@ -1,0 +1,25 @@
+{
+	"num":	3,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"\n­x'=x",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"399;9ÿÿÿÿ,ÿÿ,",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"fixed_32",
+			"value":	"2629824512",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}]
+}

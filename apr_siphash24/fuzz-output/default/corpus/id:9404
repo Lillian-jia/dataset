@@ -1,0 +1,25 @@
+{
+	"num":	3,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"r\u0004g\u0004|\u001er\u0004f\u0004|\u001e\u001e£nY\u001e£nY",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"fixed_32",
+			"value":	"123",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"unfixed",
+			"value":	"qwer",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}]
+}

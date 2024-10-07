@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"wewert[u¶opprtyu¶oŸŸŸŸŸŸŸŸ\u0001ŸŸŸŸŸŸpŸŸŸŸŸŸ\u0001ŸŸŸŸŸŸpp",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

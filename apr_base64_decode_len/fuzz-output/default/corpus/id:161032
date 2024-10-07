@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"qwertyui\rÿÿÿ\r\r\r\r\r\r\fó\r\r\r\r\u001b\r\r\r\r\r\r\r\r\r\r\ryui\rÿÿÿ\r\r\r\r\r\r\fó\r\r\r\r\u001b\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

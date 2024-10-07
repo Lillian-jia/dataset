@@ -1,0 +1,5 @@
+apr_siphash_24:
+- apr_siphash24():
+      headers:
+      - apr_siphash.h
+      signature: long long apr_siphash24(const void *, int, const unsigned char *);

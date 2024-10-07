@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"vskè|\b\u0015\u0004",
+			"real_type":	"void",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

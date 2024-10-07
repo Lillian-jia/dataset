@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	" sdasasda|||||||]adf86fNas||\u0001||||@f 6f(asdasasdasf86y]adf86fNasddf86fNasd",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

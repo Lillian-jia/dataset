@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"as\t\u0010\t\t\t\t\t\t\t\t\bê\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u0019\tdasc8(^1a",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

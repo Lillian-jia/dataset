@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"@w[€\u000fy\u0005ÿ[€\u000fw[€\u000f‹`@w[€\u000f‹\u0005ÿ\u0005ÿÿ\u0005",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

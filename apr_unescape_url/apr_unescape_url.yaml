@@ -1,0 +1,5 @@
+apr_unescape_url:
+- apr_unescape_url():
+      headers:
+      - apr_escape.h
+      signature: int apr_unescape_url(char *, const char *, long, const char *, const char *, int, unsigned long *);

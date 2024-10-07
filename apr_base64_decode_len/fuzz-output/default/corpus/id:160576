@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"qwe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ë\n\n\n\n\n\n\n\n\n\n$\n\n\n\n\n\n\n\n\n\n\u0003\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0002\n\n\n\n\n\n\n\n\n\n%\n\n\n\n\n\n\n\n\n\n\nrt{uiop",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

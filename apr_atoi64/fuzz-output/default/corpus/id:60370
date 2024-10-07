@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"asdJNfa÷\u000e\u000f\u000f\u000f\u000f\u000f\u000f\u000f\u000f5dJ\u000ef8a÷\u000e\u000f\u000f\u000f\u000f\u000f\u000f\u000f\u000f5dJ\u000ef8",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

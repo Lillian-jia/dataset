@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"Ime\u0016ÿÿ6N1p@ÿÿ6NHHHHHp@ÿÿ6NHHHHHHHHHHHHHHHHHHHHHHHHHÉHH~HHHHHHHHHHsd",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

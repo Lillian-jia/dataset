@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"qwe!wer$\u0001\u0001\u0001\u0001\u0001\u0001der\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001d\u0001qqweqwer$\u0001\u0001\u0001\u0001\u0001\u0001d\u0001qde€\u0001\u0001\u0001\u0001\u0001der\u0001\u0001",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}
