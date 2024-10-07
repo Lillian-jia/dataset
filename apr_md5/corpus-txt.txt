@@ -1,0 +1,3 @@
+val_1=qazwsx
+val_2=wsxedc
+val_3=8777

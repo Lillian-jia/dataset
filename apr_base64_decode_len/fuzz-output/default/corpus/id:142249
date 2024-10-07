@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"Vwert’uiort’uio\nû\n\u000b\n\n\n\n\n\n\nô\t\n\n\n\n\n\n\u000e\n\n\nú",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

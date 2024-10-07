@@ -1,0 +1,39 @@
+{
+	"num":	5,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"\u0013\u0015\u0013\u0013\u0013\u0013\u0013\u0013\u0012\u0013\u0013\u0013\u0013\u0013\u0013\u0012ˇ\u0013\u0013\u0013\u0013\u0013\u0013\u0013\u0013\u0013\u0013\u0013\u0013ˆ\u0013\u000bè\u0013\u0013\u0013\u000bè\u000bè",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"fixed_32",
+			"value":	"1234",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"unfixed",
+			"value":	"qaz",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}, {
+			"type":	"fixed_32",
+			"value":	"1234",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_4"
+		}, {
+			"type":	"fixed_32",
+			"value":	"1234",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_5"
+		}]
+}

@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"qše!\u001eÿ\u0003è\u001e\u001e\u001e\u000e\u001e\u001a \u001e\u001e\u001e\u001e\u001e\u001e\u001e\u001d\u001e7\u001e\u001e\u001e\u0011\u001e\u001e\u001e\u001e\u001e\u001e\u000e\u001e\u001a \u001e\u001e\u001e\u001ed\u001e\u001ep",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

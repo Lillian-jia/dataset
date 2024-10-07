@@ -1,0 +1,5 @@
+apr_atoi64:
+- apr_atoi64():
+        headers:
+        - apr_strings.h
+        signature: long long apr_atoi64(const char *);

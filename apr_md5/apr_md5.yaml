@@ -1,0 +1,5 @@
+apr_md5:
+- apr_md5():
+      headers:
+      - apr_md5.h
+      signature: int apr_md5(unsigned char *, const void *, int);

@@ -1,0 +1,5 @@
+apr_proc_mutex_defname:
+- apr_proc_mutex_defname():
+      headers:
+      - apr_proc_mutex.h
+      signature: const char * apr_proc_mutex_defname(void);

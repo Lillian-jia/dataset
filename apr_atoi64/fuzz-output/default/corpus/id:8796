@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"sda\u001f5$$$$$$$$$5$)$$$$$$$'$ $$\u0016$$$$$$$__$$$$$$$$$$$$_„d",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

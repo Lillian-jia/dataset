@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"q\u0003и\u0002\u0016Р\u0016\u001a\u0003ии\u0002\u0016Р\u0016\u001a\u0003и\u001a\u001a\u001a\u001a",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

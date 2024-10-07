@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"“rrrrrr@@@@@w\u001a\u001a@@@@@w\u001a\u001a\u001a\u001a\u001a\u001a\u0014\u001f\u001a.\u001a\u000b\u001a\u001a\u001a\u001a\u001a.\u0014\u001f\u001a.\u001a\u000b\u001a\u001a\u001a\u001a\u001a\u001a}dp",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

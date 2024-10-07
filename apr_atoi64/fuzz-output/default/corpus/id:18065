@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"a\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004sssf#ss€ssssssssssss\u0010\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004ssssss\u0010\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004ç\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004sssss\u0011d",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

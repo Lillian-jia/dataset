@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"asddmsfP65\u0014\u0014\u0014\u0014(\u0014\u0014\u0014\u0014\u001465\u0014\u0014\u0014\u0014(\u0014\u0014\u0014\u0014\u0014\u0014\u0014\u0014d\u0014\u0014\u0014\u0014\u0014a\u0014\u0014\u0014d\u0014\u0014\u0014\u0014\u0014asd",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"安t\u0001 t\u0001ub安e t\u0001ubub安e t\u0001uboe t\u0001 t\u0001ub安e t\u0001ubub安e t\u0001uboop",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

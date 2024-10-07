@@ -1,0 +1,5 @@
+apr_base64_decode_len:
+- apr_base64_decode_len():
+        headers:
+        - apr_base64.h
+        signature: int apr_base64_decode_len(const char *);

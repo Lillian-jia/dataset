@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"d}ZZZ%è\u0003\u0019\u0019\u0019\u0019\u0019ZZZZZZZZZZZZZZZZZZZZZZZZ\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019tZUNopp",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

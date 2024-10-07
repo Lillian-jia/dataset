@@ -1,0 +1,5 @@
+apr_siphash_auth:
+- apr_siphash_auth():
+      headers:
+      - apr_siphash.h
+      signature: void apr_siphash_auth(unsigned char *,const void *, int, const unsigned char *,unsigned int, unsigned int);

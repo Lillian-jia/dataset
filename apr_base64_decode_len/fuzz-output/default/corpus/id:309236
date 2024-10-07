@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"qwertyuMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMÿMMMMMMMMMMMM\u0001MMidp",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

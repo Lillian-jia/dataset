@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"qwerty\t\t\t\t\t\t\u000b\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\f\t\t\t\t\t\t\t\t\terty\t\u0019\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u0016ú\b\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tuiop",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

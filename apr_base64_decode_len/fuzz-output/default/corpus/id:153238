@@ -1,0 +1,11 @@
+{
+	"num":	1,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"ÿwe%%%%%%%%%%%%%%\u0015%%%%rtyuie%%%%%%%%%%%%%%%%%%%%%%%%\u0015%%%%%%%\u0010%%%%%%%%%%%%%%%%%\u0002%D%%%%\u0017%%%%d€%%%%7\u0017%%%%d",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}]
+}

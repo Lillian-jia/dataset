@@ -1,0 +1,25 @@
+{
+	"num":	3,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"€ññƒ\u0012\u0012\u00122\n€ññƒ\u0012\u0012\u00122\u0012\u0012\u0012\t\u0012\u0012\u0012\u0012\u0012\u0012\u0012\u0012\u0012\t\u0012\u0012\u0012\u0012\u0012\u0012\u0012ù\u0012\u0012",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"wsxedc",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"fixed_32",
+			"value":	"8777",
+			"real_type":	"unsigned int",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}]
+}
