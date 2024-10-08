@@ -1,0 +1,25 @@
+{
+	"num":	3,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"1a]415<ÿ41\u001b151d81<ÿ41\u0019\u0015515<ÿ41\u0019151d81<ÿ41\u0019151d81551325@1˜d81551325@1˜2€dÿÿÿ",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"1asd15256q",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"fixed_32",
+			"value":	"11111111",
+			"real_type":	"unsigned int *",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}]
+}

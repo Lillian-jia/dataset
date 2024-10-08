@@ -1,5 +1,0 @@
-apr_base64:
-- apr_md4:
-    headers:
-    - apr_md4.h
-    signature: int apr_md4(unsigned char,char *,int);

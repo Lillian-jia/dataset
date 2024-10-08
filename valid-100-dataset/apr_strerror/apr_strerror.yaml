@@ -1,5 +1,0 @@
-apr_base64:
-- apr_brigade_cleanup:
-    headers:
-    - apr_errno.h
-    signature: char * apr_strerror(int,char *,unsigned int);

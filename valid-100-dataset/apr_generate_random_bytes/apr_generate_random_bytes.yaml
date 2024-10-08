@@ -1,5 +1,0 @@
-apr_base64:
-- apr_generate_random_bytes:
-    headers:
-    - apr_general.h
-    signature: int apr_generate_random_bytes(unsigned char *,unsigned int);

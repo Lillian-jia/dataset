@@ -1,5 +1,0 @@
-apr_base64:
-- apr_app_initialize:
-    headers:
-    - apr_general.h
-    signature: int apr_app_initialize(int,char *,char *);
