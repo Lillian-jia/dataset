@@ -1,0 +1,25 @@
+{
+	"num":	3,
+	"arguments":	[{
+			"type":	"unfixed",
+			"value":	"1asd123a",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_1"
+		}, {
+			"type":	"unfixed",
+			"value":	"asGsdasda|f86Q1asa1asddasd86Q1asa1asddasdk|f8)1asa1ak|f8)1asa1a5f8s(lf8ÿ",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_2"
+		}, {
+			"type":	"unfixed",
+			"value":	"1sdad112",
+			"real_type":	"string",
+			"context":	false,
+			"skip":	false,
+			"name":	"val_3"
+		}]
+}
