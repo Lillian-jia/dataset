@@ -1,0 +1,5 @@
+apr_base64:
+- apr_hashfunc_default:
+    headers:
+    - apr_hash.h
+    signature: unsigned int apr_hashfunc_default(char *,int);

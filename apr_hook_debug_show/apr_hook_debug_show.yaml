@@ -1,0 +1,5 @@
+apr_base64:
+- apr_hook_debug_show:
+    headers:
+    - apr_hooks.h
+    signature: void apr_hook_debug_show(char *,char *,char *);
